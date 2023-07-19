@@ -5,11 +5,9 @@
         <div class="login-wrapper">
             <div class="login-content">
                 <div class="login-userset">
-                    <div class="login-logo">
-                        <img src="{{ asset('assets/img/logo.png') }}" alt="img" />
-                    </div>
+                    
                     <div class="login-userheading">
-                        <h3>Sign In</h3>
+                        <h2><b>Sign In</b></h2>
                         <h4>Please login to your account</h4>
                     </div>
                     <form id="login_form">
@@ -40,9 +38,6 @@
                         <h4>Don’t have an account? <a href="{{ route('register') }}" class="hover-a">Sign Up</a></h4>
                     </div>
                 </div>
-            </div>
-            <div class="login-img">
-                <img src="assets/img/login.jpg" alt="img">
             </div>
         </div>
     </div>

@@ -5,14 +5,11 @@
         <div class="login-wrapper">
             <div class="login-content">
                 <div class="login-userset">
-                    <div class="login-logo">
-                        <img src="{{ asset('assets/img/logo.png') }}" alt="img" />
-                    </div>
+                    
                     <div class="login-userheading">
                         <h3>Forgot password?</h3>
                         <h4>
-                            Don’t warry! it happens. Please enter the address <br />
-                            associated with your account.
+                            Please enter your email address<br />
                         </h4>
                     </div>
                     <form id="forget_form">
@@ -28,9 +25,6 @@
                         </div>
                     </form>
                 </div>
-            </div>
-            <div class="login-img">
-                <img src="{{ asset('assets/img/login.jpg') }}" alt="img" />
             </div>
         </div>
     </div>

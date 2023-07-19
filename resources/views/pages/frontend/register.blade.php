@@ -64,9 +64,6 @@
                     </div>
                 </div>
             </div>
-            <div class="login-img">
-                <img src="assets/img/login.jpg" alt="img" />
-            </div>
         </div>
     </div>
     @endsection @section('script')

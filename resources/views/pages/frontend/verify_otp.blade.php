@@ -33,9 +33,6 @@
                     </form>
                 </div>
             </div>
-            <div class="login-img">
-                <img src="{{ asset('assets/img/login.jpg') }}" alt="img" />
-            </div>
         </div>
     </div>
 @endsection
